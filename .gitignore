@@ -4,3 +4,5 @@
 /web-app/WEB-INF/classes
 /web-app/WEB-INF/tld
 .asscache
+build
+.gradle
