@@ -1,5 +1,6 @@
 .idea
 /target
 *.iml
-
+/web-app/WEB-INF/classes
+/web-app/WEB-INF/tld
 
