@@ -11,3 +11,6 @@
 *= require mobile
 *= require_self
 */
+#contentWrapper {
+    padding: 0px 32px;
+}
