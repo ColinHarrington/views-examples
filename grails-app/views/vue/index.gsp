@@ -13,7 +13,7 @@
     <ul>
         <li><g:link action="html">HTML</g:link></li>
         <li><g:link action="renderHTML">renderHTML</g:link></li>
-        <li><g:link action="json">json</g:link></li>
+        <li><g:link action="json">JSON</g:link></li>
         <li><g:link action="renderJSON">renderJSON</g:link></li>
         <li><g:link action="markdown">Markdown</g:link></li>
         <li><g:link action="renderMarkdown">renderMarkdown</g:link></li>

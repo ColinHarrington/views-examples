@@ -25,7 +25,7 @@ class VueController {
     def xml() {}
 
     def renderXML() {
-        render view: 'html'
+        render view: 'xml'
     }
 
     def svg() {}
